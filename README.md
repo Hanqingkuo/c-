@@ -1,0 +1,2 @@
+# c-
+about c++ knowledge
